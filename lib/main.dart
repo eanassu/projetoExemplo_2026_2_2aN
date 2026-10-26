@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             ElevatedButton(
               onPressed: () {
-                // Navega para a Tela de Tarefas
+                // Navega para a Tela de desenho
                 Navigator.push(
                   context,
                   MaterialPageRoute(builder: (context) => const DrawingScreen()),
