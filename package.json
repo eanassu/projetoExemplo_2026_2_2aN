@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "homepage": "https://github.com/eanassu/projetoExemplo_2026_2_2aN#readme",
+  "bugs": {
+    "url": "https://github.com/eanassu/projetoExemplo_2026_2_2aN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eanassu/projetoExemplo_2026_2_2aN.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.22.2"
+  }
+}
